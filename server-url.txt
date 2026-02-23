@@ -1,1 +1,1 @@
- server-url.txt
+https://github.com/ithyper/depozit/blob/main/servere.txt
