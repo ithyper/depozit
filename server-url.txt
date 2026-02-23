@@ -1,1 +1,1 @@
-https://github.com/ithyper/depozit/blob/main/servere.txt
+https://raw.githubusercontent.com/ithyper/depozit/main/servere.txt
